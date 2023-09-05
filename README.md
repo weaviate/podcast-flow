@@ -1,4 +1,4 @@
-# Podcast Flow ♻️
+# Podcast Flow 🌀
 
 Podcast flow enables you to build content off of your existing content using RAG. 
 
